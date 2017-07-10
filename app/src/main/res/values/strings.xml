@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ThreadManager</string>
+    <string name="bubble">Bubble</string>
+    <string name="cocktail">Cocktail</string>
+    <string name="collection_sort">Collection Sort</string>
+    <string name="start_sort">Start sort</string>
+    <string name="end_sort">End Sort</string>
+    <string name="list">List:</string>
+
+    <string-array name="cars_array">
+        <item>Mercedes</item>
+        <item>Daewoo</item>
+        <item>Chevrolet</item>
+        <item>Alfa Romeo</item>
+        <item>Bugatti</item>
+        <item>Opel</item>
+        <item>Audi</item>
+    </string-array>
+    <string-array name="ships_array">
+        <item>Sunbeam</item>
+        <item>Lucy</item>
+        <item>Florence</item>
+        <item>Alonzo</item>
+        <item>Lizzie</item>
+        <item>Alton</item>
+        <item>Topaz</item>
+    </string-array>
+    <string-array name="planes_array">
+        <item>Emirates</item>
+        <item>Delta</item>
+        <item>Easy Jet</item>
+        <item>KrasAir</item>
+        <item>Atlas</item>
+        <item>Federal Express</item>
+        <item>DHL</item>
+        <item>Tarom</item>
+    </string-array>
+</resources>
